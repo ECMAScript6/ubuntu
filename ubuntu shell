@@ -1,0 +1,1 @@
+查询pid结束进程       lsof -i:端口号      kill -9  pid
